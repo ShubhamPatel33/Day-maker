@@ -362,8 +362,7 @@ if ($err) {
 		<div class="container">			
 			<div class="row">				
 				<div class="col-lg-7 col-md-7 col-sm-7 col-xs-12">
-					<p class="footerp">2016 © Copyright - Quotes PSD Templates. All rights reserved.</p>
-					<p class="footerp">Free Template by <a href="https://freetemplates.pro/">FreeTemplates.pro</a></p>
+					
 				</div>
 				<div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
 					<div class="social">
